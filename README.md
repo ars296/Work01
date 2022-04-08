@@ -1,6 +1,3 @@
-# Work2
-hand-tracking jyanken with leapmotion
-
 # 課題2 -JavaScriptじゃんけんアプリ-
 
 ## 1. 課題内容（どんな作品か）
@@ -8,12 +5,16 @@ hand-tracking jyanken with leapmotion
 
 ## 2. 工夫した点・こだわった点
 - ハンドトラッキングでのグー、チョキー、パーを入れてみる
-- コードは、[leapmotionのJavaScriptライブラリ](https://github.com/leapmotion/leapjs)　と海外の方のものを参考にさせていただいた
+- コードは、[leapmotionのJavaScriptライブラリ](https://github.com/leapmotion/leapjs)と海外の方のものを参考にさせていただいた
 
-## 3. 質問・疑問
-- 
+## 3. 補足
+- leapmotionとは
+- Leap Motion（リープモーション）は、2012年にLeap Motion社から販売された手のジェスチャーによってコンピュータの操作ができる入力機器
+- マウスや画面タッチを用いずに操作ができる体感型のシステムで、ジェスチャーによって直観的に操作することが可能に
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Leap_Motion_Orion_Controller_Plugged.jpg/800px-Leap_Motion_Orion_Controller_Plugged.jpg" width=30%>
 
 ## 4. 感想
+- 環境設定に手間取ってしまった
+- demoView以外にleapmotionを触ったことがなかったので、今回とても良い機会になった
+- サンプルコードに助けてもらった...
 - プログラミングの基礎が不足しているので、仕事の時間をなんとかして圧縮しないといけない
-- 環境設定に手間取った
-- このコードをゼロから全て一人で書くことは私には出来なかった... 
