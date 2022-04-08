@@ -2,6 +2,7 @@
 
 ## 1. 課題内容（どんな作品か）
 - JavaScript, ハンドトラッキングができるLeapmotionセンサを使ったじゃんけん課題です
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Leap_Motion_Orion_Controller_Plugged.jpg/800px-Leap_Motion_Orion_Controller_Plugged.jpg" width=30%>
 
 ## 2. 工夫した点・こだわった点
 - ハンドトラッキングでのグー、チョキー、パーを入れてみる
@@ -11,7 +12,7 @@
 - leapmotionとは
 - Leap Motion（リープモーション）は、2012年にLeap Motion社から販売された手のジェスチャーによってコンピュータの操作ができる入力機器
 - マウスや画面タッチを用いずに操作ができる体感型のシステムで、ジェスチャーによって直観的に操作することが可能に
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Leap_Motion_Orion_Controller_Plugged.jpg/800px-Leap_Motion_Orion_Controller_Plugged.jpg" width=30%>
+
 
 ## 4. 感想
 - 環境設定に手間取ってしまった
