@@ -1,4 +1,4 @@
-# 課題2 -JavaScriptじゃんけんアプリ-
+# 課題1 -JavaScriptじゃんけんアプリ-
 
 ## 1. 課題内容（どんな作品か）
 - ハンドトラッキングセンサデバイスのLeapmotionを使ったJavaScriptのじゃんけんアプリです
