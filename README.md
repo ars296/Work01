@@ -7,6 +7,7 @@
 ## 2. 工夫した点・こだわった点
 - ハンドトラッキングでのグー、チョキー、パーを入れてみる
 - コードは、[leapmotionのJavaScriptライブラリ](https://github.com/leapmotion/leapjs)と海外の方のものを参考にさせていただいた
+- demo画像を[Githubのissue](https://github.com/ars296/Work2/issues/1)に入れてみました。
 
 ## 3. 補足
 - leapmotionとは
