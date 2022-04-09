@@ -1,7 +1,7 @@
 # 課題2 -JavaScriptじゃんけんアプリ-
 
 ## 1. 課題内容（どんな作品か）
-- JavaScript, ハンドトラッキングができるLeapmotionセンサを使ったじゃんけん課題です
+- ハンドトラッキングセンサデバイスのLeapmotionを使ったJavaScriptのじゃんけんアプリです
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Leap_Motion_Orion_Controller_Plugged.jpg/800px-Leap_Motion_Orion_Controller_Plugged.jpg" width=30%>
 
 ## 2. 工夫した点・こだわった点
